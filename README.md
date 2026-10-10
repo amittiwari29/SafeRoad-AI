@@ -125,6 +125,4 @@ python train_simple_pipeline.py
 
 ---
 
-## 👥 Contributors
 
-- **Bennett University** — Department of Computer Science & Engineering
